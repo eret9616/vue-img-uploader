@@ -1,0 +1,27 @@
+{
+  "name": "vue-img-uploader",
+  "version": "1.0.0",
+  "description": "img uploader component for vuejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eret9616/vue-img-uploader.git"
+  },
+  "keywords": [
+    "imguploader",
+    "vue",
+    "img",
+    "upload",
+    "uploader",
+    "image"
+  ],
+  "author": "eret9616",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eret9616/vue-img-uploader/issues"
+  },
+  "homepage": "https://github.com/eret9616/vue-img-uploader#readme"
+}
